@@ -6,6 +6,10 @@ Este é o ambiente oficial da disciplina. Todas as medições reportadas no
 Projeto Acadêmico IESB devem ser feitas aqui, para que os resultados sejam
 comparáveis entre os trios.
 
+Para estudar as diretivas usadas nos exemplos, consulte o
+[guia de `#pragma` e OpenMP](PRAGMAS_OPENMP.md), com explicações, comparações e
+um exemplo completo para compilar.
+
 ## 1. Subir o ambiente
 
 Requisito: Docker e Docker Compose instalados.
